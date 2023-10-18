@@ -1,10 +1,10 @@
 # Desafios de Back-end
 
-## Descrição
-
-  Este repositório contém uns desafios de back-end proposto por algumas empresas.
+-    Este repositório contém uns desafios de back-end proposto por algumas empresas.
 
 ## Desafios
+
+-    Os desafios são divididos em pastas, cada uma com um enunciado e instruções.
 
 Em Construção (❁´◡`❁)
 
